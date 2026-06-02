@@ -2,7 +2,7 @@
 
 ## The tool you need to master your habits.
 
-This is a python application with a command line interface. This program allows you to store, manage, track and analyze your habits. You are able to add and remove habits as well as view their streaks. This app stores your data in a sqlite database which means there is no big setup or installation requirements. So you can just get up and go!
+This is a python application with a command line interface. This program allows you to store, manage, track and analyze your habits. You are able to add and remove habits as well as view their streaks. This app stores your data in a sqlite database which means there is no big setup or installation requirements. You can just get up and go!
 
 ## Table of Contents
 

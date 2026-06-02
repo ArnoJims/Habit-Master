@@ -20,6 +20,13 @@ This is a python application with a command line interface. This program allows 
    <img width="1907" height="830" alt="image" src="https://github.com/user-attachments/assets/e531363f-9b5d-4e06-a53b-6b3f53de63da" />   
 
 3. Download and install python here: https://www.python.org/ftp/python/3.14.5/python-3.14.5-amd64.exe
+   Once downloaded run the .exe file and follow the instructions on the installer.
+   <img width="1912" height="269" alt="image" src="https://github.com/user-attachments/assets/8ea22092-8a4e-4198-9ff7-81dd4e4941be" />
+   Make sure the 'Add python.exe to PATH' box is ticked.
+   <img width="817" height="517" alt="image" src="https://github.com/user-attachments/assets/4804055c-1243-421b-a8f4-cbc609a2026d" />
+
+   
+
 2. Install the required modules from the requirements.txt file by opening command prompt and entering the the following like so:
 3. Run the database_setup.py file to create your sqlite databases by doing the following:
 4. All set! Follow the Usage Guide to find out how to open and use the application.

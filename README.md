@@ -81,3 +81,5 @@ There are four options when analyzing your habits. You can list all your habits.
 If you would like to run the test suit for the application, open a new terminal from you Habit-Master-main file on you desktop, paste the below and hit "Enter".  
 
 ```pytest```
+
+<img width="1483" height="758" alt="image" src="https://github.com/user-attachments/assets/9feecb40-08f1-4a1e-9418-af2329a9d36d" />

@@ -19,7 +19,7 @@ This is a python application with a command line interface. This program allows 
    Extract the contents into your desktop folder. Your username will be different. After this move on to step 2.
    <img width="1907" height="830" alt="image" src="https://github.com/user-attachments/assets/e531363f-9b5d-4e06-a53b-6b3f53de63da" />   
 
-3. Download and install python here: https://www.python.org/ftp/python/3.14.5/python-3.14.5-amd64.exe
+3. Download and install python here: https://www.python.org/ftp/python/3.14.5/python-3.14.5-amd64.exe.  
    Once downloaded run the .exe file and follow the instructions on the installer.
    <img width="1912" height="269" alt="image" src="https://github.com/user-attachments/assets/8ea22092-8a4e-4198-9ff7-81dd4e4941be" />
    Make sure the 'Add python.exe to PATH' box is ticked.

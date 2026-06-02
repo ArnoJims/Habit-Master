@@ -67,6 +67,8 @@ Type in the following and press "Enter" to start your program. Each time you clo
 
 The main menu contains a lovely welcome at the top with all your different navigation options. For all menus you will just have to enter the number of the option you would like to choose and press "Enter". At any point when using the application, if you want to exit, press "Ctrl+C". In the main menu there are 3 options to choose from: Complete a Habit✅, Manage Habits📋 and Analyze Habits📊. 
 
+<img width="1481" height="757" alt="image" src="https://github.com/user-attachments/assets/f4ac6e16-6516-47d5-87c0-423faba71832" />
+
 ### 3. Completing a Habit
 
 When completing a habit you will select from a list of your current habits which one you would like to complete. If a habit has already been complete today it will not appear in the list. If you have completed all your habits you will receive a well deserved congradulations and be directed back to the main menu.

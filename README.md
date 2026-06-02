@@ -71,7 +71,7 @@ The main menu contains a lovely welcome at the top with all your different navig
 
 ### 3. Completing a Habit
 
-When completing a habit you will select from a list of your current habits which one you would like to complete. If a habit has already been complete today it will not appear in the list. If you have completed all your habits you will receive a well deserved congradulations and be directed back to the main menu.
+When completing a habit you will select from a list of your current habits which one you would like to complete. If a habit has already been completed today it will not appear in the list. If you have completed all your habits you will receive a well deserved congradulations and be directed back to the main menu.
 
 <img width="1477" height="755" alt="image" src="https://github.com/user-attachments/assets/d69a84d3-7d51-4c42-b2f0-a985a24573a5" />
 

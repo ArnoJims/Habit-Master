@@ -25,17 +25,31 @@ This is a python application with a command line interface. This program allows 
    Make sure the 'Add python.exe to PATH' box is ticked.
    <img width="817" height="517" alt="image" src="https://github.com/user-attachments/assets/4804055c-1243-421b-a8f4-cbc609a2026d" />
 
-   
-
 2. Install the required modules from the requirements.txt file by opening command prompt and entering the the following like so:
-3. Run the database_setup.py file to create your sqlite databases by doing the following:
-4. All set! Follow the Usage Guide to find out how to open and use the application.
+  Open a new terminal from your Habit-Master-main file on your desktop.
+
+   Paste this command and press enter.
+   '''python -m pip install -r requirements.txt'''
+
+4. Run the database_setup.py file to create your sqlite databases by doing the following:
+   Open a new terminal from your Habit-Master-main file on your desktop.
+   
+   Paste this commend and press enter.
+   '''python database_setup.py'''
+
+   You should see a message like the one below if you database was set up successfully.
+
+   
+6. All set! Follow the Usage Guide to find out how to open and use the application.
 
 ## Usage Guide
 
 ### 1. Opening Habit Master
 
-To open your application, right click on the desktop icon and click on "Open in Terminal". Then type "python Habit_Master.py" into the terminal and press enter to run the application.
+To open your application, open a new terminal from your Habit-Master-main file on your desktop. 
+
+Type in the following and press enter to start your program. Each time you close your program you need to open it again in this same way.
+'''python Habit_Master.py'''
 
 ### 2. Navigating the Main Menu
 

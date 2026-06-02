@@ -39,7 +39,7 @@ This is a python application with a command line interface. This program allows 
    All the required modules should install and once complete you can close the terminal.
 
 4. Run the database_setup.py file to create your sqlite databases by doing the following:  
-   Open a new terminal from your Habit-Master-main file on your desktop.
+   Open a new terminal from your Habit-Master-main file on your desktop.  
    <img width="460" height="568" alt="image" src="https://github.com/user-attachments/assets/18e2f599-6ea3-4076-ba4d-0fed17801939" />
 
    Paste this command and press "Enter".

@@ -12,7 +12,9 @@ This is a python application with a command line interface. This program allows 
 ## Installation Guide
 
 1. Download/clone this project into you Desktop folder like so:
-2. Download and install python here: https://www.python.org/ftp/python/3.14.5/python-3.14.5-amd64.exe
+   <img width="945" height="445" alt="image" src="https://github.com/user-attachments/assets/6d2bc177-1945-4c7a-9329-d3b67cabb448" />
+
+3. Download and install python here: https://www.python.org/ftp/python/3.14.5/python-3.14.5-amd64.exe
 2. Install the required modules from the requirements.txt file by opening command prompt and entering the the following like so:
 3. Run the database_setup.py file to create your sqlite databases by doing the following:
 4. All set! Follow the Usage Guide to find out how to open and use the application.

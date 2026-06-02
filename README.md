@@ -12,8 +12,8 @@ This is a python application with a command line interface. This program allows 
 ## Installation Guide
 
 1. Download/clone this project into you Desktop folder like so:
-   \n1.1. Download the code zip file:
-   \nDownload the file.
+   1.1. Download the code zip file:
+   Download the file.
    <img width="945" height="445" alt="image" src="https://github.com/user-attachments/assets/6d2bc177-1945-4c7a-9329-d3b67cabb448" />
    
    Extract the contents into your desktop folder. Your username will be different. After this move on to step 2.

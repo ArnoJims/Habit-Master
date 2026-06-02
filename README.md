@@ -40,7 +40,7 @@ This is a python application with a command line interface. This program allows 
    Open a new terminal from your Habit-Master-main file on your desktop.
    <img width="460" height="568" alt="image" src="https://github.com/user-attachments/assets/18e2f599-6ea3-4076-ba4d-0fed17801939" />
 
-   Paste this command and press "Enter".
+   Paste this command and press "Enter".  
    ```python database_setup.py```
 
    You should see a message like the one below if you database was set up successfully. You can close the terminal.
@@ -56,7 +56,7 @@ This is a python application with a command line interface. This program allows 
 To open your application, open a new terminal from your Habit-Master-main file on your desktop. 
 <img width="460" height="568" alt="image" src="https://github.com/user-attachments/assets/4e2471e2-783c-4754-9e37-ceec68392fc0" />
 
-Type in the following and press "Enter" to start your program. Each time you close your program you need to open it again in this same way.
+Type in the following and press "Enter" to start your program. Each time you close your program you need to open it again in this same way.  
 ```python Habit_Master.py```
 
 ### 2. Navigating the Main Menu
@@ -74,5 +74,5 @@ In the managing section of the application you are able to add and delete habits
 There are four options when analyzing your habits. You can list all your habits. You can list only ones with Daily or Weekly periodicity. You can see the longest streak of a habit of your choice and you can see the longest streak out of all your habits. When choosing an option you will be guided through if anything else is necessary like choosing the periodicity to filter by or the habit who's longest streak you want to see.
 
 ## Testing the Application
-If you would like to run the test suit for the application, open a new terminal from you Habit-Master-main file on you desktop, paste the below and hit "Enter".
+If you would like to run the test suit for the application, open a new terminal from you Habit-Master-main file on you desktop, paste the below and hit "Enter".  
 ```pytest```

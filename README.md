@@ -12,7 +12,15 @@ This is a python application with a command line interface. This program allows 
 ## Installation Guide
 
 1. Download/clone this project into you Desktop folder like so:
+   1.1. Download the code zip file:
+   Download the file.
    <img width="945" height="445" alt="image" src="https://github.com/user-attachments/assets/6d2bc177-1945-4c7a-9329-d3b67cabb448" />
+   Extract the contents into your desktop folder. Your username will be different. After this move on to step 2.
+   <img width="1907" height="830" alt="image" src="https://github.com/user-attachments/assets/e531363f-9b5d-4e06-a53b-6b3f53de63da" />
+
+   1.2. Clone the repository:
+
+   
 
 3. Download and install python here: https://www.python.org/ftp/python/3.14.5/python-3.14.5-amd64.exe
 2. Install the required modules from the requirements.txt file by opening command prompt and entering the the following like so:

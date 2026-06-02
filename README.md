@@ -73,6 +73,8 @@ The main menu contains a lovely welcome at the top with all your different navig
 
 When completing a habit you will select from a list of your current habits which one you would like to complete. If a habit has already been complete today it will not appear in the list. If you have completed all your habits you will receive a well deserved congradulations and be directed back to the main menu.
 
+<img width="1477" height="755" alt="image" src="https://github.com/user-attachments/assets/d69a84d3-7d51-4c42-b2f0-a985a24573a5" />
+
 ### 4. Managing Habits
 In the managing section of the application you are able to add and delete habits. When adding a habit you can give it a name and specify its periodicity as Daily or Weekly. When deleting a habit you get to choose which one you want to delete from your list of current habits.
 

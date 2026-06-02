@@ -30,7 +30,7 @@ This is a python application with a command line interface. This program allows 
   Open a new terminal from your Habit-Master-main file on your desktop.
   <img width="460" height="568" alt="image" src="https://github.com/user-attachments/assets/932aaed3-da5d-47b1-a373-61de37d2f59c" />
 
-   Paste this command and press "Enter".
+   Paste this command and press "Enter".  
    ```python -m pip install -r requirements.txt```
    <img width="1483" height="760" alt="image" src="https://github.com/user-attachments/assets/3914d46b-4403-4478-b98f-eb448da53c9b" />
 

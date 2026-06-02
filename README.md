@@ -16,7 +16,7 @@ This is a python application with a command line interface. This program allows 
    Download the code zip file.
    <img width="945" height="445" alt="image" src="https://github.com/user-attachments/assets/6d2bc177-1945-4c7a-9329-d3b67cabb448" />
    
-   Extract the contents into your desktop folder. Your username will be different.
+   Extract the contents into your Desktop folder. Your username will be different.
    <img width="1907" height="830" alt="image" src="https://github.com/user-attachments/assets/e531363f-9b5d-4e06-a53b-6b3f53de63da" />   
 
 3. Download and install python here: https://www.python.org/ftp/python/3.14.5/python-3.14.5-amd64.exe.  

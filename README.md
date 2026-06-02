@@ -8,6 +8,7 @@ This is a python application with a command line interface. This program allows 
 
 - [Installation Guide](#installation)
 - [Usage Guide](#usage)
+- [Testing the Application](#testing)
 
 ## Installation Guide
 
@@ -27,17 +28,23 @@ This is a python application with a command line interface. This program allows 
 
 2. Install the required modules from the requirements.txt file by opening command prompt and entering the the following like so:  
   Open a new terminal from your Habit-Master-main file on your desktop.
+  <img width="460" height="568" alt="image" src="https://github.com/user-attachments/assets/932aaed3-da5d-47b1-a373-61de37d2f59c" />
 
-   Paste this command and press enter.
-   '''python -m pip install -r requirements.txt'''
+   Paste this command and press "Enter".
+   ```python -m pip install -r requirements.txt```
+   <img width="1483" height="760" alt="image" src="https://github.com/user-attachments/assets/3914d46b-4403-4478-b98f-eb448da53c9b" />
+
+   All the required modules should install and once complete you can close the terminal.
 
 4. Run the database_setup.py file to create your sqlite databases by doing the following:  
    Open a new terminal from your Habit-Master-main file on your desktop.
-   
-   Paste this commend and press enter.
-   '''python database_setup.py'''
+   <img width="460" height="568" alt="image" src="https://github.com/user-attachments/assets/18e2f599-6ea3-4076-ba4d-0fed17801939" />
 
-   You should see a message like the one below if you database was set up successfully.
+   Paste this command and press "Enter".
+   ```python database_setup.py```
+
+   You should see a message like the one below if you database was set up successfully. You can close the terminal.
+   <img width="1478" height="755" alt="image" src="https://github.com/user-attachments/assets/356c1269-0ce7-4f49-ae91-4f53594226d0" />
 
    
 6. All set! Follow the Usage Guide to find out how to open and use the application.
@@ -47,9 +54,10 @@ This is a python application with a command line interface. This program allows 
 ### 1. Opening Habit Master
 
 To open your application, open a new terminal from your Habit-Master-main file on your desktop. 
+<img width="460" height="568" alt="image" src="https://github.com/user-attachments/assets/4e2471e2-783c-4754-9e37-ceec68392fc0" />
 
-Type in the following and press enter to start your program. Each time you close your program you need to open it again in this same way.
-'''python Habit_Master.py'''
+Type in the following and press "Enter" to start your program. Each time you close your program you need to open it again in this same way.
+```python Habit_Master.py```
 
 ### 2. Navigating the Main Menu
 
@@ -64,3 +72,7 @@ In the managing section of the application you are able to add and delete habits
 
 ### 5. Analyzing Habits
 There are four options when analyzing your habits. You can list all your habits. You can list only ones with Daily or Weekly periodicity. You can see the longest streak of a habit of your choice and you can see the longest streak out of all your habits. When choosing an option you will be guided through if anything else is necessary like choosing the periodicity to filter by or the habit who's longest streak you want to see.
+
+## Testing the Application
+If you would like to run the test suit for the application, open a new terminal from you Habit-Master-main file on you desktop, paste the below and hit "Enter".
+```pytest```

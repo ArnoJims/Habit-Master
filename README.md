@@ -78,6 +78,8 @@ When completing a habit you will select from a list of your current habits which
 ### 4. Managing Habits
 In the managing section of the application you are able to add and delete habits. When adding a habit you can give it a name and specify its periodicity as Daily or Weekly. When deleting a habit you get to choose which one you want to delete from your list of current habits.
 
+<img width="1474" height="757" alt="image" src="https://github.com/user-attachments/assets/ef1c11fe-67b7-4e4b-bc1c-4e03ecd1cc3d" />
+
 ### 5. Analyzing Habits
 There are four options when analyzing your habits. You can list all your habits. You can list only ones with Daily or Weekly periodicity. You can see the longest streak of a habit of your choice and you can see the longest streak out of all your habits. When choosing an option you will be guided through if anything else is necessary like choosing the periodicity to filter by or the habit who's longest streak you want to see.
 

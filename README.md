@@ -83,6 +83,8 @@ In the managing section of the application you are able to add and delete habits
 ### 5. Analyzing Habits
 There are four options when analyzing your habits. You can list all your habits. You can list only ones with Daily or Weekly periodicity. You can see the longest streak of a habit of your choice and you can see the longest streak out of all your habits. When choosing an option you will be guided through if anything else is necessary like choosing the periodicity to filter by or the habit who's longest streak you want to see.
 
+<img width="1481" height="754" alt="image" src="https://github.com/user-attachments/assets/fd08e1aa-ffa5-4af1-9d00-2b85ca5766c0" />
+
 ## Testing the Application
 If you would like to run the test suit for the application, open a new terminal from you Habit-Master-main file on you desktop, paste the below and hit "Enter".  
 

@@ -25,13 +25,13 @@ This is a python application with a command line interface. This program allows 
    Make sure the 'Add python.exe to PATH' box is ticked.
    <img width="817" height="517" alt="image" src="https://github.com/user-attachments/assets/4804055c-1243-421b-a8f4-cbc609a2026d" />
 
-2. Install the required modules from the requirements.txt file by opening command prompt and entering the the following like so:
+2. Install the required modules from the requirements.txt file by opening command prompt and entering the the following like so:  
   Open a new terminal from your Habit-Master-main file on your desktop.
 
    Paste this command and press enter.
    '''python -m pip install -r requirements.txt'''
 
-4. Run the database_setup.py file to create your sqlite databases by doing the following:
+4. Run the database_setup.py file to create your sqlite databases by doing the following:  
    Open a new terminal from your Habit-Master-main file on your desktop.
    
    Paste this commend and press enter.

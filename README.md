@@ -23,7 +23,7 @@ This is a python application with a command line interface. This program allows 
    Open a terminal in you Desktop directory like so.
    <img width="697" height="826" alt="image" src="https://github.com/user-attachments/assets/6c7e7e71-c904-4152-aa39-120fccc976ba" />
    Paste the following and press enter.
-   git clone 
+   ```git clone https://github.com/ArnoJims/Habit-Master/tree/main```
 
 
    

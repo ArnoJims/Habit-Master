@@ -20,6 +20,11 @@ This is a python application with a command line interface. This program allows 
    <img width="1907" height="830" alt="image" src="https://github.com/user-attachments/assets/e531363f-9b5d-4e06-a53b-6b3f53de63da" />
 
    1.2. Clone the repository:
+   Open a terminal in you Desktop directory like so.
+   <img width="697" height="826" alt="image" src="https://github.com/user-attachments/assets/6c7e7e71-c904-4152-aa39-120fccc976ba" />
+   Paste the following and press enter.
+   git clone 
+
 
    
 
